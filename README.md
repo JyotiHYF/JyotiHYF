@@ -21,7 +21,7 @@ Currently learning **React** and **backend fundamentals**, while strengthening m
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari-denmark/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=ko-fi&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=ko-fi&logoColor=white)](https://jyotihyf.github.io/MyPortfolio/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:switjyoti26@gmail.com)
 
 ---
